@@ -3,11 +3,11 @@ This is the code of the minimax algorithm with alpha-beta pruning, which is base
 In this tic-tac-toe game, human player has options to choose the first player and whether to implement alpha-beta pruning. If the computer player goes first, it will select its first movement randomly. Regardless the initial setting at the beginning of this game, the algorithm will find the most optimal solutions and the results show that human can hardly beat the AI in this game. 
 
 When running Main.py, the agent will display how the squares are numbered, helping users understand how to select their desired square.
-1 | 2 | 3
-- + - + -
-4 | 5 | 6
-- + - + -
-7 | 8 | 9
+1|2|3
+-+-+-
+4|5|6
+-+-+-
+7|8|9
 
 Before the game begins, users must answer two questions to configure the game settings:
 
