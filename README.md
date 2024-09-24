@@ -4,13 +4,9 @@ In this tic-tac-toe game, human player has options to choose the first player an
 
 When running Main.py, the agent will display how the squares are numbered, helping users understand how to select their desired square.
 1|2|3
-
 -+-+-
-
 4|5|6
-
 -+-+-
-
 7|8|9
 
 Before the game begins, users must answer two questions to configure the game settings:
